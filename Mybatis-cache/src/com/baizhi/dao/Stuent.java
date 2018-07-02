@@ -8,4 +8,7 @@ public class Stuent {
     public void m(){
         System.out.println("Hello");
     }
+    public void m1(){
+
+    }
 }
